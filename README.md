@@ -43,8 +43,8 @@
 ### 📊 Engineering Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coodig&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coodig&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=ffffff" width="48%" />
 </div>
 
 ---
@@ -52,7 +52,7 @@
 ### 🛠️ Technical Velocity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coodig&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 <div align="center">
