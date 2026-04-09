@@ -79,6 +79,10 @@
 ### 🧊 3D Contribution Graph
 ![Isometric View](https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg)
 
+<img width="1909" height="660" alt="image" src="https://github.com/user-attachments/assets/a5c2e5fe-a71d-4a1d-8ad2-1ad0f0e1cc95" />
+
+![3D Graph](https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Coodig&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
   <br />
