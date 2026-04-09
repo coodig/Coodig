@@ -56,6 +56,11 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coodig&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coodig&theme=dark" width="48%" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Coodig&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
   <br />
   <sub>Copyright © 2026 Adarsh • Built with ❤️</sub>
