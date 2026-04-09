@@ -1,0 +1,47 @@
+name: generate-animations
+
+on:
+  # Har 24 ghante mein auto-update hoga
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # Aap manually bhi run kar sakte hain
+  workflow_dispatch:
+  
+  # Jab bhi aap main branch par push karenge
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # 1. Snake Animation Generate Karein
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: coodig
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Isometric 3D Calendar Generate Karein
+      - name: generate-3d-contrib-calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: coodig
+
+      # 3. Generated files ko "output" branch mein push karein
+      - name: push-to-output-branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
