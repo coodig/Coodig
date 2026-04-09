@@ -17,7 +17,7 @@
 ### 🛡️ Core Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,laravel,php,js,html,css,react,tailwind,nodejs,mysql,mongodb,git,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,laravel,php,js,html,css,tailwind,mysql,git,vscode,docker,linux" />
 </div>
 
 <br />
@@ -42,19 +42,24 @@
 
 ### 📊 Engineering Metrics & Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coodig&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coodig&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=ffffff" width="48%" />
-</div>
+</div> -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coodig&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coodig&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coodig&theme=dark&hide_border=true" width="100%" />
 </div>
 
+---
+
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coodig&theme=dark" width="100%" />
+</div>
+
+<!-- <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=coodig&theme=darkhub&no-frame=true&column=4" width="100%" />
-</div>
+</div> -->
 
 ---
 
@@ -69,18 +74,28 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>🐍 Snake Contribution</b></td>
       <td align="center"><b>🧊 3D Isometric View</b></td>
     </tr>
     <tr>
-      <td width="50%"><img src="https://raw.githubusercontent.com/coodig/coodig/output/github-contribution-grid-snake.svg" /></td>
-      <td width="50%"><img src="https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg" /></td>
+      <td width="100%"><img src="https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg" /></td>
     </tr>
   </table>
 </div>
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🐍 Snake Contribution</b></td>
+    </tr>
+    <tr>
+      <td width="100%"><img src="https://raw.githubusercontent.com/coodig/coodig/output/github-contribution-grid-snake.svg" /></td>
+      </tr>
+  </table>
+</div>
+
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coodig&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
   <br />
