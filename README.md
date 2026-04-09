@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Coodig&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
   <br />
   <sub>Copyright © 2026 Adarsh • Built with ❤️</sub>
 </div>
