@@ -1,14 +1,9 @@
 name: generate-animations
 
 on:
-  # Har 24 ghante mein auto-update hoga
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # Aap manually bhi run kar sakte hain
   workflow_dispatch:
-  
-  # Jab bhi aap main branch par push karenge
   push:
     branches:
     - main
@@ -19,6 +14,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       # 1. Snake Animation Generate Karein
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk/svg-only@v3
@@ -37,7 +35,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: coodig
 
-      # 3. Generated files ko "output" branch mein push karein
+      # 3. FIX: 3D files ko 'dist' folder mein move karein taaki dono push ho sakein
+      - name: Move 3D files to dist
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          cp -r profile-3d-contrib/* dist/profile-3d-contrib/
+
+      # 4. Sab kuch 'output' branch mein push karein
       - name: push-to-output-branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
