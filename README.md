@@ -61,6 +61,25 @@
 </div>
 
 <div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=coodig&theme=darkhub&no-frame=true&margin-w=15" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coodig&theme=darkhub&no-frame=true&column=4" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coodig&theme=dark&hide_border=true" width="100%" />
+</div>
+
+
+### 🐍 Snake Contribution
+![Snake Animation](https://raw.githubusercontent.com/coodig/coodig/output/github-contribution-grid-snake.svg)
+
+### 🧊 3D Contribution Graph
+![Isometric View](https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Coodig&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
   <br />
   <sub>Copyright © 2026 Adarsh • Built with ❤️</sub>
