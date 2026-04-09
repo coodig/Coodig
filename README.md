@@ -48,7 +48,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coodig&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coodig&theme=dark&hide_border=true" width="100%" height="50% />
 </div>
 
 ---
@@ -74,19 +74,6 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>🧊 3D Isometric View</b></td>
-    </tr>
-    <tr>
-      <td width="100%"><img src="https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
       <td align="center"><b>🐍 Snake Contribution</b></td>
     </tr>
     <tr>
@@ -96,6 +83,21 @@
 </div>
 
 ---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🧊 3D Isometric View</b></td>
+    </tr>
+    <tr>
+      <td width="100%" height="80%"><img src="https://raw.githubusercontent.com/coodig/coodig/output/profile-3d-contrib/profile-night-rainbow.svg" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coodig&color=61dafb&style=flat-square&label=PROFILE+VIEWS" />
   <br />
