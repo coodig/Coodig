@@ -24,7 +24,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++` • `Python` • `Java` • `PHP` • `JavaScript` |
+| **Languages** | `C` • `C++` • `Python` • `Java` • `PHP` • `JavaScript` |
 | **Frameworks** | `Laravel` • `React.js` • `Node.js` • `Tailwind CSS` |
 | **Database & Tools** | `MySQL` • `MongoDB` • `Git` • `Docker` • `VS Code` |
 | **Development** | `Game Dev (LibGDX)` • `System Programming` • `AI/ML` |
